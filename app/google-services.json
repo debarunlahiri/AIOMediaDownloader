@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222551957347",
+    "project_id": "aio-video-downloader-4add8",
+    "storage_bucket": "aio-video-downloader-4add8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222551957347:android:28d96c58edc90f5ff5fd56",
+        "android_client_info": {
+          "package_name": "com.lambrk.aio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0dk6UlMa-CbPHJ8pi7BxyC1v90Qo5tR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
